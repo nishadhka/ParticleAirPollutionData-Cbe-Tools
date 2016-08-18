@@ -1,5 +1,5 @@
-#particle Air pollution Data for Coimbatore
-##Real time monitoring and modeling tools
+#Particulate Air pollution Data for Coimbatore
+##Tools for real time monitoring and modeling
 
 This repository contains scripts for following purposes
 
